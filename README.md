@@ -7,7 +7,7 @@
 
 ### Nomor 1
 ----
-Implemantasikan sebuah program untuk menyelesaikan permasalahan “Largest Monotonically Increasing Subsequence” 
+Implementasikan sebuah program untuk menyelesaikan permasalahan “Largest Monotonically Increasing Subsequence” 
 
 Jawab
 
